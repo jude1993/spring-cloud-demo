@@ -1,0 +1,7 @@
+message: 更新此消息来自config server
+
+management:
+    endpoints:
+        web:
+            exposure:
+                include: "*"

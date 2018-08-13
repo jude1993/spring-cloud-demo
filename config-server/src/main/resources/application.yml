@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: E:\idea\learning\springCloudConfig
+          uri: config
