@@ -1,0 +1,9 @@
+#指定了配置中心服务的端口号，和保存配置文件的git仓库目录，如果是远程仓库，可以直接指定url地址
+server:
+  port: 8888
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: E:\idea\learning\springCloudConfig
