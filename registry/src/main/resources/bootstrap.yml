@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: eureka-server #服务中心的文件名
+  cloud:
+    config:
+      uri: http://localhost:8888
